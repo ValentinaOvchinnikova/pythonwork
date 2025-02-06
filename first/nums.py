@@ -4,7 +4,7 @@ def plus(a,b):
 def minus(a,b):
     return a-b
 def multi(a,b):
-    return a*b
+    return 2*a*b
 if __name__ == '__main__':
     print(plus(2,2))
     print(minus(4,2))
